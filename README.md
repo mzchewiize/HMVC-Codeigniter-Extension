@@ -14,20 +14,20 @@ These advantages will allow you to get M.O.R.E out of your application with less
 
 Folder Structure for HMVC:
 <code>
-Application <br/>
--core <br/>
--third_party <br/>
--controllers <br/>
--views <br/>
--modules <br/>
-  -FirstNewModules <br/>
-    -controllers <br/>
-    -views <br/>
-    -models <br/>
-  -SecondNewModules <br/>
-    -controllers <br/>
-    -views <br/>
-    -models <br/>
+<p>Application</p>
+<p>-core </p>
+<p>-third_party</p>
+<p>-controllers</p> 
+<p>-views </p>
+<p>-modules </p>
+  <p>-FirstNewModules </p>
+    <p>-controllers</p>
+    <p>-views </p>
+    <p>-models</p>
+  <p>-SecondNewModules </p>
+    <p>-controllers</p> 
+    <p>-views </p>
+    <p>-models</p>
 </code>
 
 <b>HOW IT WORKS?</b>
