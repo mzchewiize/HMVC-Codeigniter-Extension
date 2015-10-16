@@ -1,4 +1,4 @@
-# hmvcCodeigniterExtension
+# HMVC-Codeigniter-Extension
 source for modulars extension for HMVC Codeigniter
 
 <b>WHY WE design project for HMVC? </b>
