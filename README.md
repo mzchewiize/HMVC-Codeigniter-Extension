@@ -20,14 +20,14 @@ Folder Structure for HMVC:
 <p>-controllers</p> 
 <p>-views </p>
 <p>-modules </p>
-  <p>-FirstNewModules </p>
-    <p>-controllers</p>
-    <p>-views </p>
-    <p>-models</p>
-  <p>-SecondNewModules </p>
-    <p>-controllers</p> 
-    <p>-views </p>
-    <p>-models</p>
+  <p>&nbsp;-FirstNewModules </p>
+    <p>&nbsp;&nbsp;-controllers</p>
+    <p>&nbsp;&nbsp;-views </p>
+    <p>&nbsp;&nbsp;-models</p>
+  <p>&nbsp;-SecondNewModules </p>
+    <p>&nbsp;&nbsp;-controllers</p> 
+    <p>&nbsp;&nbsp;-views </p>
+    <p>&nbsp;&nbsp;-models</p>
 </code>
 
 <b>HOW IT WORKS?</b>
