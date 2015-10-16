@@ -11,10 +11,8 @@ Reusability: By nature of the design it is easy to reuse nearly every piece of c
 Extendibility: Makes the application more extensible without sacrificing ease of maintenance.
 These advantages will allow you to get M.O.R.E out of your application with less headaches.
 </p>
-
 Folder Structure for HMVC:
-<pre>
-<code>
+<pre><code>
 Application
 /core
 /third_party
@@ -30,7 +28,6 @@ Application
      /models
      /views   
 </code></pre>
-
 
 <b>HOW IT WORKS?</b>
 <p>
