@@ -5,12 +5,12 @@ source for modulars extension for HMVC Codeigniter
 <br/>
 <p>
 Key advantages to implementing the HMVC pattern in your development cycle:
-<code>
+
     <b>Modularization </b>: Reduction of dependencies between the disparate parts of the application.<br/>
     <b>Organization </b>: Having a folder for each of the relevant triads makes for a lighter work load. <br/>
     <b>Reusability </b>: By nature of the design it is easy to reuse nearly every piece of code. <br/>
     <b>Extendibility</b>: Makes the application more extensible without sacrificing ease of maintenance. <br/>
-</code>
+
 These advantages will allow you to get M.O.R.E out of your application with less headaches.
 
 </p>
